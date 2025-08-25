@@ -25,32 +25,12 @@ It is typically the first and most crucial phase of the software development lif
 ---
 
 ## Key Activities in Requirement Analysis
-### Requirement Gathering
-- This is the initial step where raw information is collected from stakeholders about what they need in the system.
-- It involves identifying all relevant stakeholders (e.g., clients, end-users, managers) and understanding their expectations.
-- Techniques used include surveys, interviews, reviewing existing documents, studying current systems, and observing end-users in their working environment to understand their needs.
-- The goal is to compile a comprehensive list of desired features, constraints, and objectives.
+- **Requirement Gathering:** This is the initial step in the requirement analysis process, where raw information is collected from stakeholders about what they expect from the system. At this stage, it is important to identify all relevant stakeholders such as clients, end-users, managers, and domain experts in order to understand their expectations. Different techniques are used to gather this information, including surveys, interviews, reviewing existing documents, studying current systems, and even observing end-users in their working environment. The purpose of this activity is to compile a comprehensive list of desired features, constraints, and objectives that will shape the direction of the project.
 
-### Requirement Elicitation
-- Elicitation goes beyond just collecting requirements; it focuses on drawing out detailed needs from stakeholders.
-- Since users may not always know how to articulate their needs, elicitation uses techniques like workshops, brainstorming, prototyping, focus groups, use case analysis, and observation.
-- The goal is to uncover hidden, implicit, and critical requirements that may not be obvious during basic gathering.
+- **Requirement Elicitation:** It goes beyond simply gathering information; it focuses on drawing out detailed and precise needs from stakeholders. Since users may not always be able to articulate their requirements clearly, elicitation relies on structured techniques such as workshops, brainstorming sessions, prototyping, focus groups, use case analysis, and observation. The aim here is to uncover hidden, implicit, and critical requirements that might not surface during the basic gathering process. This ensures that the development team gains a deeper understanding of what users actually need rather than just what they initially state.
 
-### Requirement Documentation 
-- All gathered and elicited requirements are recorded in a structured format, usually in a Software Requirements Specification (SRS) document.
-- It involves creating a detailed document that lists all functional and non-functional requirements.
-- It also involves creating user stories and use cases.
-- The goal is to create a single source of truth that guides design, development, and testing.
+- **Requirement Documentation:** Once requirements have been gathered and elicited, they must be recorded in a structured format to serve as a reference point throughout the development process. This is usually done through a Software Requirements Specification (SRS) document, which lists both functional and non-functional requirements in detail. In addition, user stories and use cases are often created to capture system interactions and user expectations. Proper documentation ensures clarity, consistency, and eliminates ambiguity, thereby creating a single source of truth that guides the design, development, and testing of the software system.
 
-### Requirement Analysis and Modelling
-- This step focuses on examining and refining requirements to ensure they are feasible, complete, and logically structured.
-- It often involves classifying requirements (functional, non-functional, domain-specific), checking for conflicts, and prioritising features.
-- It also involves carrying out feasibility analysis in terms of technical, financial, and time constraints.
-- Modelling techniques like use case diagrams, entity-relationship diagrams, process flows, and prototypes are used to visually represent the system.
-- The goal is to transform raw requirements into a structured and analyzable format for better understanding and decision-making.
+- **Requirement Analysis and Modelling:** After documentation, the requirements need to be examined and refined to ensure they are feasible, complete, and logically structured. This involves classifying requirements such as functional, non-functional, and domain-specific, while also checking for conflicts and prioritising features. A feasibility analysis is also conducted at this stage to evaluate technical, financial, and time-related constraints. To aid understanding, modelling techniques such as use case diagrams, entity-relationship diagrams, process flows, and prototypes are often employed. The goal of this step is to transform raw requirements into a structured and analyzable format that supports clear decision-making and system design.
 
-### Requirement Validation
-- After analysis and documentation, requirements must be verified to ensure they accurately reflect stakeholder needs and are technically feasible.
-- Techniques include walkthroughs, reviews, prototyping, and stakeholder sign-off.
-- Validation checks requirements for accuracy, completeness, consistency, and testability.
-- The goal is to confirm that the requirements are correct, agreed upon, and ready to serve as the foundation for design and development.
+- **Requirement Validation:** The final activity in requirement analysis is validation, which ensures that the requirements accurately reflect stakeholder needs and are practically achievable. Validation involves techniques such as walkthroughs, peer reviews, prototyping, and obtaining formal sign-offs from stakeholders. This process checks the requirements for accuracy, completeness, consistency, and testability. The ultimate goal is to confirm that the requirements are correct, realistic, and agreed upon, making them ready to serve as the foundation for system design and development.
