@@ -34,3 +34,24 @@ It is typically the first and most crucial phase of the software development lif
 - **Requirement Analysis and Modelling:** After documentation, the requirements need to be examined and refined to ensure they are feasible, complete, and logically structured. This involves classifying requirements such as functional, non-functional, and domain-specific, while also checking for conflicts and prioritising features. A feasibility analysis is also conducted at this stage to evaluate technical, financial, and time-related constraints. To aid understanding, modelling techniques such as use case diagrams, entity-relationship diagrams, process flows, and prototypes are often employed. The goal of this step is to transform raw requirements into a structured and analyzable format that supports clear decision-making and system design.
 
 - **Requirement Validation:** The final activity in requirement analysis is validation, which ensures that the requirements accurately reflect stakeholder needs and are practically achievable. Validation involves techniques such as walkthroughs, peer reviews, prototyping, and obtaining formal sign-offs from stakeholders. This process checks the requirements for accuracy, completeness, consistency, and testability. The ultimate goal is to confirm that the requirements are correct, realistic, and agreed upon, making them ready to serve as the foundation for system design and development.
+
+---
+
+## Types of Requirements
+### Functional Requirements
+Functional requirements define what the system should do: its features, capabilities, and interactions. They describe the tasks, services, or functions the system must perform to meet stakeholder needs. In the context of the booking management project, functional requirements specify how users and administrators interact with the system.
+
+Examples for the Booking Management Project:
+- The system must allow users to create new bookings for available slots.
+- The system should send automated booking confirmation emails or SMS to users after a successful reservation.
+- Users must be able to view, update, or cancel their bookings through the platform.
+- Administrators should have the ability to add, edit, or remove available time slots or services.
+
+### Non-functional Requirements
+Non-functional requirements specify the quality attributes and constraints of the system rather than specific behaviors. They describe how the system performs its functions, covering areas such as usability, performance, reliability, and security. For the booking management project, these requirements ensure the platform delivers a smooth, secure, and scalable user experience.
+
+Examples for the Booking Management Projects:
+- The system should handle up to 1,000 concurrent users without performance degradation.
+- Booking confirmations must be sent within 30 seconds of successful reservation.
+- User data must be protected with encryption.
+- The system interface should be mobile-friendly and accessible to users with disabilities (compliant with WCAG 2.1 standards).
