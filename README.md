@@ -70,3 +70,20 @@ Use Case Diagrams are a type of Unified Modelling Language (UML) diagram that se
 ### Use Case Diagram for Booking System
 <img width="2061" height="1141" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/7f5a6b10-5936-40c9-8944-f7026c3f57c1" />
 
+---
+
+## Acceptance Criteria
+Acceptance criteria are the predefined conditions that a software product or feature must meet to be accepted by stakeholders. They act as a bridge between stakeholders, developers, and testers, ensuring that everyone shares the same understanding of what “done” means.
+
+### Importance of Acceptance Criteria
+- It eliminates ambiguity by translating broad requirements into specific, testable statements.
+- They provide clear guidance for the development team, helping them break down tasks into implementable pieces.
+- For QA testers, acceptance criteria serve as the foundation for test cases, ensuring every requirement is verifiable.
+- They prevent scope creep and reduce the risk of misunderstanding or incomplete functionality.
+
+### Examples of Acceptance Criteria for Checkout Feature in a Booking Management System
+- The user must be able to enter and save payment information securely.
+- The system must support multiple payment options (e.g., credit card, debit card, PayPal).
+- The system must display a confirmation page with booking details after successful payment.
+- An email confirmation must be sent automatically to the user/guest and the host upon successful checkout.
+- If payment fails, the system must display an error message and allow the guest to retry with the same or a different payment method.
