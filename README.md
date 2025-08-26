@@ -67,4 +67,5 @@ Use Case Diagrams are a type of Unified Modelling Language (UML) diagram that se
 - **Requirement Validation:** Help verify that all user needs have been captured and linked to system functions.
 - **System Boundaries:** Clearly define what is inside the system (use cases) and what is external (actors).
 
-
+### Use Case Diagram for Booking System
+! [The Use Case Diagram for Airbnb Booking System] (alx-booking-uc.png)
