@@ -55,3 +55,16 @@ Examples for the Booking Management Projects:
 - Booking confirmations must be sent within 30 seconds of successful reservation.
 - User data must be protected with encryption.
 - The system interface should be mobile-friendly and accessible to users with disabilities (compliant with WCAG 2.1 standards).
+
+---
+
+## Use Case Diagrams
+
+Use Case Diagrams are a type of Unified Modelling Language (UML) diagram that serves as a visual representation of the functional interactions between users/actors and a system. They illustrate what the system should do, and which users or external systems interact with those functionalities.
+
+### Benefits of Use Case Diagrams
+- **Clarity in Communication:** They provide a simple, high-level view of system functionality that both technical and non-technical stakeholders can understand.
+- **Requirement Validation:** Help verify that all user needs have been captured and linked to system functions.
+- **System Boundaries:** Clearly define what is inside the system (use cases) and what is external (actors).
+
+
